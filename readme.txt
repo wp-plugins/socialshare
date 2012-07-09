@@ -21,6 +21,10 @@ Take a look at screenshot to see how they look.
 4. Drop the widget on your side and fill in the required details!
 5. And there you go!
 
+== Screenshots ==
+
+1. the Widget [Full Image](http://www.dropbox.com/s/is6xcywet3x5euz/screenshot-1.png)
+
 == Changelog ==
 
 = 1.0 =
