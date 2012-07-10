@@ -1,9 +1,11 @@
 === Social Share ===
 Contributors: agnelwaghela
+Donate link: https://agnelwaghela.wordpress.com/
 Tags: plugins, socialshare, sharing widget, social widget
 Requires at least: 3.3.1
 Tested up to: 3.4.1
 Stable tag: 1.0
+License: GPLv2 or later
 
 Simple Social Sharing widget.
 
@@ -25,7 +27,18 @@ Take a look at screenshot to see how they look.
 
 1. the Widget [Full Image](http://www.dropbox.com/s/is6xcywet3x5euz/screenshot-1.png)
 
+== Frequently Asked Questions ==
+
+= No questions? =
+
+Initial Version
+
 == Changelog ==
 
 = 1.0 =
 * Initial release
+
+== Upgrade Notice ==
+
+= 1.0 =
+first release
